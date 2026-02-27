@@ -25,4 +25,3 @@ The system supports I2C and UART communication for external monitoring and integ
 - /firmware → ATmega328P firmware
 
 ## PCB Preview
-![PCB](hardware/pcb/BMS_15V_PCB_Layout.png)
