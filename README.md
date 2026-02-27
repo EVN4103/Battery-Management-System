@@ -25,3 +25,4 @@ The system supports I2C and UART communication for external monitoring and integ
 - /firmware → ATmega328P firmware
 
 ## PCB Preview
+![PCB jpg](https://github.com/user-attachments/assets/97c3f057-3a2c-4c88-9d31-7b0c43713e8b)
